@@ -1,4 +1,4 @@
-# Angular8Cosmos
+# Angular8 with Cosmos DB and Azure Function (Angular 8 Part)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
 
